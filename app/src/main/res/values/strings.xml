@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="shuffle">shuffle</string>
+    <string name="sort">sort</string>
+    <string name="previous">previous</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="next">next</string>
+</resources>
